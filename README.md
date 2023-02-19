@@ -13,5 +13,6 @@
 
 space : 아래로 빠르게 떨어뜨림
 
-### Skill
 
+### Skill
+[![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](github.com/HiSeungmin/TODO-List)

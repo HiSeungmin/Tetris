@@ -5,6 +5,7 @@ const playground = document.querySelector(".playground > ul");
 const gameText = document.querySelector(".game-text");
 const scoreDisplay = document.querySelector(".score");
 const restartButton = document.querySelector(".game-text > button");
+
 // Setting
 const GAME_ROWS = 20;
 const GAME_COLS = 10;
@@ -179,6 +180,12 @@ document.addEventListener("keydown", e=> {
         default:
             break;
     }
+})
+
+restartButton.addEventListener("click",()=> {
+    playground.innerHTML = "";
+    gameText.style.display="none"
+    init()
 })
 
 restartButton.addEventListener("click",()=> {

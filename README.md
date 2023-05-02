@@ -16,6 +16,7 @@ space : 아래로 빠르게 떨어뜨림
 ### 결과
 
 <img width="150" src="https://github.com/HiSeungmin/Tetris/tetris_game.png">
+# <img src="https://i1.daumcdn.net/thumb/C276x260/?fname=https://k.kakaocdn.net/dn/pxaz2/btraXRZd36q/yVFHgHka3jJUeXUK7tu810/img.png" width="600" alt="The Tessel Project">
 
 ### Skill
 [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](github.com/HiSeungmin/TODO-List)

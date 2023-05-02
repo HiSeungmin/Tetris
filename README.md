@@ -14,7 +14,7 @@
 space : 아래로 빠르게 떨어뜨림
 
 ### 결과
-<a href="#"><img src="https://github.com/HiSeungmin/Tetris/tetris_game.png" width="400px" alt="dd"></a>
+
 <img width="150" src="https://github.com/HiSeungmin/Tetris/tetris_game.png">
 
 ### Skill
